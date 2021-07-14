@@ -1,0 +1,35 @@
+#enter{
+    background-image: url("Images/depositphotos_222962222-stock-photo-office-desk-working-space-flat.jpg");
+    background-size: cover;
+
+}
+
+nav{
+    /* color:black; */
+    height: 100%;
+    text-align: right;
+    top: 0;
+    margin: 0%;
+    
+
+
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px 40px;
+    color: black;
+}
+nav a:hover{
+color: white;
+}
+.logo{
+    color: white;
+    font-size: 20px;
+    top: 0%;
+}
+#text{
+    padding-top: 20% ;
+    text-align:center ;
+
+}
